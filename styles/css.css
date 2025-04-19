@@ -1,0 +1,106 @@
+
+.quicksand-normal {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    
+  }
+  /* Nave Styles */
+  
+  
+  nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:1.25rem 8.81rem;
+  }
+  .nav_title{
+font-weight: 800;
+font-size:2rem ;
+margin-left: 0.68rem;
+
+  }
+  nav ul li{
+    list-style: none;
+    margin-right: 2rem;
+    display: flex;
+  }
+  nav li a {
+    text-decoration: none;
+    font-size: 1.25rem;
+  }
+  li a button{
+    font-size: 1.25rem;
+  }
+  #home{
+    color:#FEA301 ;
+    font-weight: bold;
+  }
+  #about{
+    color: #01ACFD;
+    font-weight: 400;
+  }
+  #facilities{
+    color: #05D4DF;
+    font-weight: 400;
+  }
+  #admission{
+    color: #5D58EF;
+    font-weight: 400;
+  }
+  nav ul{
+    display: flex;
+    margin-right: 11.62rem;
+  }
+  #logo{
+    width: 3.8rem;
+    height: 3.8rem;
+  }
+  .nav_title{
+    margin-left:none   ;
+  }
+  .logo_align{
+    display: flex;
+    align-items: center;
+
+  }
+  #contact{
+background-color: #FEA301 ;
+color:#FFFFFF ;
+border-radius:12px ;
+padding: 10px 60px;
+font-weight: 700;
+font-size: 20px;
+border: none;
+
+  }
+  .banner_div {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+  }
+  .banner{
+    display: flex;
+    justify-content:space-between ;
+    margin-left: 141px;
+  }
+  .title{
+    font-weight: bold;
+    font-size: 56px;
+  }
+  .banner_dscription{
+    font-size: 20px;
+  }
+  .btn_1{
+font-size: 20px;
+font-weight: bold;
+background-color:#111111 ;
+border-radius: 12px;
+color: #FFFFFF;
+padding: 10px 47px;
+border: none;
+  }
+  .hero{
+    width: 468.61px;
+    height: 575px;
+  }
